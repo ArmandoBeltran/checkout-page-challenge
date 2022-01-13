@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href=https://armandobeltran.github.io/checkout-page-challenge/">
+    <a href=https://armandobeltran.github.io/checkout-page-challenge">
       Demo
     </a>
     <span> | </span>
